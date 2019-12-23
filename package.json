@@ -1,8 +1,8 @@
 {
-  "name": "monsters-rolodex",
+  "name": "react-robots",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://eXtr3me.github.io/monsters",
+  "homepage": "https://eXtr3me.github.io/reactrobots",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
