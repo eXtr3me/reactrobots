@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05af4e89c3ccc0c5b92e080aaf80f0cc",
+    "revision": "ad1a2a8d27832ab55d061ab6c190a894",
     "url": "/reactrobots/index.html"
   },
   {
-    "revision": "19461843741355b748c7",
-    "url": "/reactrobots/static/css/main.848f4d5c.chunk.css"
+    "revision": "72d8864c5656f1ed411e",
+    "url": "/reactrobots/static/css/main.a99720d1.chunk.css"
   },
   {
     "revision": "29508445d7b3d69a2d0b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactrobots/static/js/2.755dee9a.chunk.js.LICENSE"
   },
   {
-    "revision": "19461843741355b748c7",
-    "url": "/reactrobots/static/js/main.154abd34.chunk.js"
+    "revision": "72d8864c5656f1ed411e",
+    "url": "/reactrobots/static/js/main.00c792b5.chunk.js"
   },
   {
     "revision": "a8a25c30375c2eebae3e",
